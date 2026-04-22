@@ -4,7 +4,7 @@ const pool = mysql.createPool({
   host: "roundhouse.proxy.rlwy.net",
   user: "root",
   password: "svIdWVPYzAQpUDdpARNtCHQUeYzxPIic",
-  database: "railway",
+  database: "Sistema_Ventas"
   port: 59755,
   waitForConnections: true,
   connectionLimit: 10,
